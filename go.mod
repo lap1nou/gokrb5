@@ -6,6 +6,7 @@ require (
 	github.com/hashicorp/go-uuid v1.0.2
 	github.com/jcmturner/gofork v1.0.0
 	github.com/stretchr/testify v1.6.1
+	github.com/harkaitz/go-faketime f6651dfaa73bc373901e4bb24084563d2bafb404
 	golang.org/x/crypto v0.0.0-20201016220609-9e8e0b390897
 	gopkg.in/jcmturner/aescts.v1 v1.0.1
 	gopkg.in/jcmturner/dnsutils.v1 v1.0.1
